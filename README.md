@@ -1,6 +1,6 @@
 # My Rust App Gallery
 
-## 1. Promotion Platform
+## 1. Promotion Platform (Maybe open source in the future)
 
 Web site： <http://xxb-tg.top>
 
